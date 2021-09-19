@@ -10,11 +10,31 @@
 #endif
 
 
+class CMyApp : public CWinApp
+{
+public:
+    CMyApp();
+    ~CMyApp();
+
+private:
+
+};
+
+CMyApp::CMyApp()
+{
+}
+
+CMyApp::~CMyApp()
+{
+}
+
+
 // 唯一的应用程序对象
 
-CWinApp theApp;
+CMyApp theApp;
 
 using namespace std;
+
 
 int main()
 {

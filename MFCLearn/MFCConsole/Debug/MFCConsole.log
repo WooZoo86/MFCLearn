@@ -1,0 +1,4 @@
+﻿  MFCConsole.cpp
+C:\Learn\MFCLearn\MFCLearn\MFCConsole\MFCConsole.cpp(21,1): warning C4625: “MyApp”: 已将复制构造函数隐式定义为“已删除”
+C:\Learn\MFCLearn\MFCLearn\MFCConsole\MFCConsole.cpp(21,1): warning C4626: “MyApp”: 已将对齐运算符隐式定义为“已删除”
+  MFCConsole.vcxproj -> C:\Learn\MFCLearn\MFCLearn\Debug\MFCConsole.exe
